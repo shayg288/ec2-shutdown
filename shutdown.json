@@ -1,5 +1,3 @@
-[17:50] שי גולן
-
 {
  "Description": "(SO0030) - The AWS CloudFormation template for deployment of the aws-instance-scheduler, version: 1.5.0",
  "AWSTemplateFormatVersion": "2010-09-09",
